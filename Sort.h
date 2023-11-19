@@ -10,7 +10,7 @@ int* swap(int* a,int i,int j)
 }
 
 
-// int* bubbleSort(int *a,int n)
+int* bubbleSort(int *a,int n)
 {
     while(n > 0)
     {
